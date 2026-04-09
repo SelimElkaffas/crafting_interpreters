@@ -1,0 +1,3 @@
+Currently going through *Crafting Interpreters* by Robert Nystrom.
+
+The book recommends having two separate directories when following its instructions. One to implement the code given in the book, and another to try the challenges at the end of each section. Each section assumes you haven't tried any of the challenges from the previous one, so for the code to work properly you have to have two separate copies.
